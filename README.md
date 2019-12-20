@@ -14,9 +14,15 @@
     <td>上次更新时间</td>
   </tr>  
   <tr>
+<<<<<<< HEAD
      <td>$WORKS{undefined}</td>
      <td>$DAYS{undefined}</td>
      <td>$NOW{undefined}</td>
+=======
+     <td>$WORKS{42848}</td>
+     <td>$DAYS{212}</td>
+     <td>$NOW{2019-11-16 01:01:30}</td>
+>>>>>>> a42c32e7b6b43af8d7fbdc3633b82d1d04ce226b
   </tr> 
 </table>  
 
