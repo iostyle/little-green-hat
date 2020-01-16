@@ -14,9 +14,9 @@
     <td>上次更新时间</td>
   </tr>  
   <tr>
-      <td>$WORKS{40}</td>
-      <td>$DAYS{23}</td>
-      <td>$NOW{2020-01-16 01:01:30}</td>
+      <td>$WORKS{41}</td>
+      <td>$DAYS{24}</td>
+      <td>$NOW{2020-01-17 01:01:30}</td>
   </tr> 
 </table>  
 
